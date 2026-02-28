@@ -31,7 +31,7 @@ st.set_page_config(
     page_title="TalentScout - AI Hiring Assistant",
     page_icon="T",
     layout="centered",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 st.markdown(
