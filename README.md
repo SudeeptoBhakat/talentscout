@@ -9,7 +9,7 @@ Each answer is evaluated in real-time by an LLM, scored from 0-5, and provided w
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/SudeeptoBhakat/talentscout
    cd talentscout
    ```
 
@@ -63,8 +63,8 @@ Our prompts rely heavily on zero-shot strict-output instructions. The goal is pr
 - **Circular Imports**: Building out a separated `prompt_engine`, `orchestrator`, and `llm_service` yielded structural import chains inside `core/__init__.py`. **Solution:** Deliberately stripped eager imports of the controller classes from `__init__.py`, loading them directly at caller scopes (i.e., `import core.orchestrator` inside `app.py`).
 - **Fake User Inputs ("adffsfds")**: We wanted robustness without wasting API overhead verifying basic fields. **Solution:** Invented a lightweight Gibberish Detector tracking consonant clusters, vowel ratios, and frequency mapping alongside a known framework dictionary, validating inputs locally.
 
-## Video Link
-*(Please insert the link to your walkthrough or demonstration video here)*
+## Live Link
+*https://talentsc.streamlit.app/*
 
 ---
 *Built as a state-of-the-art AI recruitment screener.*
