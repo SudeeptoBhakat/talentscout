@@ -1,0 +1,51 @@
+{
+  "session_id": "76062cf4-890d-489e-8a72-8a6d54718c40",
+  "candidate": {
+    "full_name": "Jane Doe",
+    "email": "jane@test.com",
+    "phone": "+1-5551234567",
+    "years_experience": 3,
+    "desired_position": "Backend Dev",
+    "location": "Delhi, India",
+    "tech_stack": [
+      "Python",
+      "SQL"
+    ]
+  },
+  "tech_questions": [
+    "What is the difference between a list and a tuple in Python?",
+    "How does database indexing improve query performance?",
+    "What is the purpose of the 'async' keyword in JavaScript?",
+    "Explain the difference between REST and GraphQL."
+  ],
+  "results": [
+    {
+      "question": "What is the difference between a list and a tuple in Python?",
+      "answer": "My answer 1",
+      "score": 4,
+      "feedback": "Good answer. Demonstrates solid understanding of the concept."
+    },
+    {
+      "question": "How does database indexing improve query performance?",
+      "answer": "My answer 2",
+      "score": 4,
+      "feedback": "Good answer. Demonstrates solid understanding of the concept."
+    },
+    {
+      "question": "What is the purpose of the 'async' keyword in JavaScript?",
+      "answer": "My answer 3",
+      "score": 4,
+      "feedback": "Good answer. Demonstrates solid understanding of the concept."
+    },
+    {
+      "question": "Explain the difference between REST and GraphQL.",
+      "answer": "My answer 4",
+      "score": 4,
+      "feedback": "Good answer. Demonstrates solid understanding of the concept."
+    }
+  ],
+  "current_q_index": 4,
+  "created_at": "2026-02-28T09:13:54.490961",
+  "completed_at": "2026-02-28T09:13:54.492720",
+  "is_complete": true
+}

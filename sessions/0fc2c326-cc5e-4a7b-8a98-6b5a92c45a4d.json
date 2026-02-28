@@ -1,0 +1,59 @@
+{
+  "session_id": "0fc2c326-cc5e-4a7b-8a98-6b5a92c45a4d",
+  "candidate": {
+    "full_name": "Sukanya Mukherjee",
+    "email": "sukanya@gmail.com",
+    "phone": "9733248168",
+    "years_experience": 2,
+    "desired_position": "Backend Developer",
+    "location": "India, Kolkata",
+    "tech_stack": [
+      "Python",
+      "Django",
+      "JavaScript"
+    ]
+  },
+  "tech_questions": [
+    "What are the key features of Python that make it suitable for production?",
+    "Explain the difference between a compiled and interpreted language.",
+    "What is a REST API and how does it work?",
+    "Describe how you would debug a performance issue in a web application.",
+    "What is version control and why is it important?"
+  ],
+  "results": [
+    {
+      "question": "What are the key features of Python that make it suitable for production?",
+      "answer": "high developer productivity, a vast ecosystem, and robust integration capabilities.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Explain the difference between a compiled and interpreted language.",
+      "answer": "A compiled language translates the entire source code into a standalone machine code program before execution, resulting in faster performance. An interpreted language, by contrast, translates and executes the code line-by-line in real-time using an interpreter, which offers more flexibility and easier debugging but generally runs slower.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "What is a REST API and how does it work?",
+      "answer": "A REST API (Representational State Transfer Application Programming Interface) is a set of rules and architectural principles for designing networked applications, allowing different software systems to communicate over the internet using standard HTTP methods.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Describe how you would debug a performance issue in a web application.",
+      "answer": "Debugging a web application performance issue involves a systematic approach of identifying, isolating, and analyzing the bottleneck using specialized tools, followed by targeted optimization and testing",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "What is version control and why is it important?",
+      "answer": "Version control (or source control) is a system that records changes to files or code over time, allowing individuals or teams to track history, revert to previous versions, and collaborate without overwriting work.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    }
+  ],
+  "current_q_index": 5,
+  "created_at": "2026-02-28T08:51:32.595260",
+  "completed_at": "2026-02-28T08:56:49.720035",
+  "is_complete": true
+}

@@ -1,0 +1,60 @@
+{
+  "session_id": "2be919b1-c187-4d7e-b2b3-3fcd0674a25b",
+  "candidate": {
+    "full_name": "Akasj Apkcnolac",
+    "email": "akash@gmail.in",
+    "phone": "788788787887",
+    "years_experience": 60,
+    "desired_position": "Frontend Developer",
+    "location": "Kolkaata",
+    "tech_stack": [
+      "React",
+      "HTML",
+      "CSS",
+      "JS"
+    ]
+  },
+  "tech_questions": [
+    "Explain the concept of lifting state up in React.",
+    "How would you prevent unnecessary re-renders in a React component?",
+    "What is the difference between controlled and uncontrolled components?",
+    "What problem does React's `useCallback` hook solve?",
+    "How do you ensure backward compatibility when changing a public API?"
+  ],
+  "results": [
+    {
+      "question": "Explain the concept of lifting state up in React.",
+      "answer": "lawidfhalfi loasifhblaksdhf laksdfhlaskhdf alkwsfbazsklb",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "How would you prevent unnecessary re-renders in a React component?",
+      "answer": "aksdjfaksjdb kashdaskjh kljsdgalsjfb lkashflakshf",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "What is the difference between controlled and uncontrolled components?",
+      "answer": "akjsdflkjsdnf laksfhlaksfh laskhflaskfh laksdhfladkfh",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "What problem does React's `useCallback` hook solve?",
+      "answer": "k.nvknsd lksdnfsdknf kashflaskf ;laskf;asklfh ;akshfa;skfj ;laskfhaskfh",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "How do you ensure backward compatibility when changing a public API?",
+      "answer": "ailqewoir oiwhrepoewfh laksfhasmc lasifhmc",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    }
+  ],
+  "current_q_index": 5,
+  "created_at": "2026-02-28T16:38:43.242137",
+  "completed_at": "2026-02-28T16:41:01.849577",
+  "is_complete": true
+}

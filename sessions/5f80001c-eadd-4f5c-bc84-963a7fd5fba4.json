@@ -1,0 +1,50 @@
+{
+  "session_id": "5f80001c-eadd-4f5c-bc84-963a7fd5fba4",
+  "candidate": {
+    "full_name": "Askn Asdfi",
+    "email": "asklnf@kasjdb.com",
+    "phone": "78787878787",
+    "years_experience": 2,
+    "desired_position": "a;lskfdblaskdfbla",
+    "location": "Skcjbaa",
+    "tech_stack": [
+      "Frontend Developer"
+    ]
+  },
+  "tech_questions": [
+    "How do you approach debugging a production issue you cannot reproduce locally?",
+    "How would you design a system that needs to handle millions of requests per day?",
+    "What strategies do you use to review code written by others effectively?",
+    "How would you handle a situation where tests pass locally but fail in CI?"
+  ],
+  "results": [
+    {
+      "question": "How do you approach debugging a production issue you cannot reproduce locally?",
+      "answer": "jhvnnnnnnnnbb",
+      "score": 2,
+      "feedback": "Some understanding shown, but answer lacks detail."
+    },
+    {
+      "question": "How would you design a system that needs to handle millions of requests per day?",
+      "answer": "klhdfopsdifols",
+      "score": 2,
+      "feedback": "Some understanding shown, but answer lacks detail."
+    },
+    {
+      "question": "What strategies do you use to review code written by others effectively?",
+      "answer": "jdksflskndl",
+      "score": 2,
+      "feedback": "Some understanding shown, but answer lacks detail."
+    },
+    {
+      "question": "How would you handle a situation where tests pass locally but fail in CI?",
+      "answer": "sdklnfsldkfnslakndfs",
+      "score": 2,
+      "feedback": "Some understanding shown, but answer lacks detail."
+    }
+  ],
+  "current_q_index": 4,
+  "created_at": "2026-02-28T16:08:03.180456",
+  "completed_at": "2026-02-28T16:09:45.164087",
+  "is_complete": true
+}

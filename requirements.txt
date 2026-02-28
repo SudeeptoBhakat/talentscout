@@ -1,0 +1,13 @@
+# ─── Core Runtime ─────────────────────────────────────────────────
+pydantic[email]>=2.6.0,<3.0.0
+python-dotenv>=1.0.1
+
+# ─── Streamlit Frontend ───────────────────────────────────────────
+streamlit>=1.34.0
+
+# ─── LLM Providers (install the one(s) you need) ─────────────────
+# Google Gemini (default) — new unified SDK
+google-genai>=1.0.0
+
+# OpenAI GPT (optional, uncomment if using OpenAI backend)
+# openai>=1.30.0

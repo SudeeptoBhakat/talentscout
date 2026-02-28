@@ -1,0 +1,50 @@
+{
+  "session_id": "9f7288bc-79a2-46f0-85a0-8678158b7539",
+  "candidate": {
+    "full_name": "Ksjdg Odkbc",
+    "email": "askdh@poaewnf.com",
+    "phone": "258741369",
+    "years_experience": 55,
+    "desired_position": "ladskfn kajbfk,",
+    "location": "Alsidfkh Lakebf",
+    "tech_stack": [
+      "leafihb ekabhf"
+    ]
+  },
+  "tech_questions": [
+    "What are the key features of leafihb ekabhf that make it suitable for production?",
+    "Explain the difference between a compiled and interpreted language.",
+    "What is a REST API and how does it work?",
+    "Describe how you would debug a performance issue in a web application."
+  ],
+  "results": [
+    {
+      "question": "What are the key features of leafihb ekabhf that make it suitable for production?",
+      "answer": "ekfn lekbf",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Explain the difference between a compiled and interpreted language.",
+      "answer": "ekfn loekfn",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "What is a REST API and how does it work?",
+      "answer": ",wlke elknwef",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Describe how you would debug a performance issue in a web application.",
+      "answer": "ekf elfkwenfe",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    }
+  ],
+  "current_q_index": 4,
+  "created_at": "2026-02-28T10:34:35.886313",
+  "completed_at": "2026-02-28T10:35:36.288178",
+  "is_complete": true
+}

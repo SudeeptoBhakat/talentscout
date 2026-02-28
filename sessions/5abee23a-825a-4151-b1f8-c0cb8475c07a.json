@@ -1,0 +1,51 @@
+{
+  "session_id": "5abee23a-825a-4151-b1f8-c0cb8475c07a",
+  "candidate": {
+    "full_name": "Akash Karmakar",
+    "email": "akash654@gmail.com",
+    "phone": "9745218832",
+    "years_experience": 2,
+    "desired_position": "Backend Developer",
+    "location": "Kolkata India",
+    "tech_stack": [
+      "Python",
+      "Django"
+    ]
+  },
+  "tech_questions": [
+    "What are the key features of Python that make it suitable for production?",
+    "Explain the difference between a compiled and interpreted language.",
+    "What is a REST API and how does it work?",
+    "Describe how you would debug a performance issue in a web application."
+  ],
+  "results": [
+    {
+      "question": "What are the key features of Python that make it suitable for production?",
+      "answer": "Core Production Features\nExtensive Libraries & Frameworks: Python's \"batteries-included\" approach provides pre-built modules for almost any task, from web development (Django, FastAPI) to data science (Pandas, NumPy).\nHigh Maintainability: The simple, readable syntax mirrors natural language, which is critical for large teams managing complex, long-term projects.\nScalability & Architecture Support: While often discussed for its simplicity, Python supports advanced architectures like microservices and integrates seamlessly with containerization tools like Docker and Kubernetes for horizontal scaling.\nInteroperability (Extensibility): Python can easily call modules written in C or C++, allowing developers to optimize performance-critical parts of a production system without rewriting the entire codebase.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Explain the difference between a compiled and interpreted language.",
+      "answer": "Compiled is like translating the entire book and printing a new copy, while Interpreted is like having a live translator read it to you line-by-line.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "What is a REST API and how does it work?",
+      "answer": "A REST API (Representational State Transfer) is a set of rules that allows two computers to communicate over the internet. It is the industry standard for connecting a frontend (like a mobile app or website) to a backend (a server or database)",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    },
+    {
+      "question": "Describe how you would debug a performance issue in a web application.",
+      "answer": "Debugging a performance issue requires a systematic, data-driven approach rather than guessing. The goal is to move from broad user-level symptoms to specific technical bottlenecks.",
+      "score": 0,
+      "feedback": "Could not evaluate answer at this time."
+    }
+  ],
+  "current_q_index": 4,
+  "created_at": "2026-02-28T09:15:04.980041",
+  "completed_at": "2026-02-28T09:18:51.863722",
+  "is_complete": true
+}

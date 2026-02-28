@@ -1,0 +1,27 @@
+{
+  "session_id": "414e39d0-f898-4d98-a5b7-03bd98a0dda2",
+  "candidate": {
+    "full_name": "Nick Doe",
+    "email": "nick55@gmail.com",
+    "phone": "+91 9733248165",
+    "years_experience": 4,
+    "desired_position": "Backend Developer",
+    "location": "India, Kolkata",
+    "tech_stack": [
+      "Python",
+      "Django",
+      "Redis Posgressql",
+      "DBMS"
+    ]
+  },
+  "tech_questions": [
+    "Explain the core features that make Python suitable for production use.",
+    "Describe a challenging bug you encountered and how you resolved it.",
+    "How do you approach writing unit tests for a complex module?",
+    "What strategies do you use to optimise application performance?",
+    "Describe your experience working in an agile development team."
+  ],
+  "created_at": "2026-02-28T07:11:43.550829",
+  "completed_at": null,
+  "is_complete": false
+}

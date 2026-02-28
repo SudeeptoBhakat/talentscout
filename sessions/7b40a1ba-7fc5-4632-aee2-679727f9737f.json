@@ -1,0 +1,50 @@
+{
+  "session_id": "7b40a1ba-7fc5-4632-aee2-679727f9737f",
+  "candidate": {
+    "full_name": "Kjawgd Alksbd",
+    "email": "lsakdh@gaodin.com",
+    "phone": "6464646464646",
+    "years_experience": 30,
+    "desired_position": "Backend Developer",
+    "location": "Ksjdf Aksjbvdfk",
+    "tech_stack": [
+      "kjf kufckmckmckm"
+    ]
+  },
+  "tech_questions": [
+    "Describe how you would migrate a monolithic application to microservices.",
+    "What is your approach to writing documentation for a complex module?",
+    "How do you ensure backward compatibility when changing a public API?",
+    "What is the trade-off between code readability and performance?"
+  ],
+  "results": [
+    {
+      "question": "Describe how you would migrate a monolithic application to microservices.",
+      "answer": "j vk,j k, lb,lbkbj",
+      "score": 2,
+      "feedback": "Some understanding shown, but answer lacks detail."
+    },
+    {
+      "question": "What is your approach to writing documentation for a complex module?",
+      "answer": "asofiljp'fojapfo;asoidfhas;dokfhasd;lfkhs",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "How do you ensure backward compatibility when changing a public API?",
+      "answer": "slkdfjslkdfjsd;lkfjsd;lkdfjsd;lkfjsdldfkjs;dlfkjasd;lfkj",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    },
+    {
+      "question": "What is the trade-off between code readability and performance?",
+      "answer": "kfjslakfdjsa;dlkfjsd;lkfjsdldfkjsflkjsfd;lksajdf",
+      "score": 3,
+      "feedback": "Reasonable answer. Could benefit from more depth."
+    }
+  ],
+  "current_q_index": 4,
+  "created_at": "2026-02-28T16:05:58.906292",
+  "completed_at": "2026-02-28T16:07:38.539482",
+  "is_complete": true
+}
